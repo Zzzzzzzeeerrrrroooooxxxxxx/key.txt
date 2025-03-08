@@ -1,2 +1,1 @@
-user123:pass123
-user456:pass456
+123123
